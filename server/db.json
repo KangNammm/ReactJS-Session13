@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Thịt bòa",
+      "Price": 150000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 2,
+      "ProductName": "Táo đỏ",
+      "Price": 12000,
+      "From": "Hưng Yên"
+    },
+    {
+      "id": 3,
+      "ProductName": "Dưa hấu",
+      "Price": 15000,
+      "From": "Hà Giang"
+    },
+    {
+      "id": 4,
+      "ProductName": "Cherry",
+      "Price": 18000,
+      "From": "Đà Lạt"
+    },
+    {
+      "id": 5,
+      "ProductName": "Xoài",
+      "Price": 11000,
+      "From": "Thái Nguyên"
+    },
+    {
+      "id": 6,
+      "ProductName": "Dâu tây",
+      "Price": 13000,
+      "From": "Đà Nẵng"
+    },
+    {
+      "id": 7,
+      "ProductName": "Nho xanh",
+      "Price": 14000,
+      "From": "Hà Nam"
+    },
+    {
+      "id": 8,
+      "ProductName": "Lê",
+      "Price": 16000,
+      "From": "Hà Tĩnh"
+    },
+    {
+      "id": 9,
+      "ProductName": "Bưởi",
+      "Price": 17000,
+      "From": "Hà Nội"
+    },
+    {
+      "id": 10,
+      "ProductName": "Kiwi",
+      "Price": 19000,
+      "From": "Quảng Ninh"
+    },
+    {
+      "ProductName": "Cam",
+      "Price": "25000",
+      "From": "Hải Dương",
+      "id": 11
+    }
+  ],
+  "user": [],
+  "carts": []
+}
